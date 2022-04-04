@@ -1,0 +1,14 @@
+PRAL = 0
+Kalorien = 1
+Kalorie = Kalorien
+Calorie = Kalorien
+Calories = Kalorien
+Kohlenhydrate = 2
+Kohlenhydrat = Kohlenhydrate
+Carbohydrates = Kohlenhydrate
+Carbohydrate = Kohlenhydrate
+Carbs = Kohlenhydrate
+Protein = 3
+Proteine = Protein
+Eiweiß = Protein
+Eiweiße = Protein
